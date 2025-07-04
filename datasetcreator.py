@@ -44,9 +44,3 @@ class DatasetCreator:
                         print(f"Failed to read frame {frame}")
                 except Exception as e:
                     print("CAP PROP FRAME COUNT ERROR, PROCEED")
-            
-            
-
-
-            
-            
